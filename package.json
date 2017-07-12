@@ -1,0 +1,20 @@
+{
+  "name": "kalmanFilterProject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "program.js",
+  "repo": "https://github.com/anik3tra0/kalman-project.git"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^1.1.1",
+    "csv-write-stream": "^2.0.0",
+    "fast-csv": "^2.4.0",
+    "kalmanjs": "^1.0.0-beta",
+    "randgen": "^0.1.0"
+  }
+}
